@@ -59,7 +59,7 @@ This project is under the MIT license.
 
 by Fernando Rufino
 
-> Project created by Rocketseat
+`Project created by Rocketseat`
 
 # README in portuguese
 
@@ -129,4 +129,4 @@ Esse projeto está sob a licença MIT.
 
 by Fernando Rufino
 
-> Projeto criado pela Rocketseat 
+`Projeto criado pela Rocketseat` 
