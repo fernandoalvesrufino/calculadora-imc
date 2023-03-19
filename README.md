@@ -26,7 +26,7 @@
 - CSS
 - JavaScript
 - Git and GitHub
-- Figma
+- Figma 
 
 
 ## Project
